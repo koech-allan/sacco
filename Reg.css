@@ -1,0 +1,43 @@
+body{
+	background-image: url(img3.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-family: serif;
+	font-size: 20px;
+}
+#navbar{
+	list-style-type: none;
+	display: flex;
+	justify-content: space-between;
+}
+#anchor{
+	text-decoration: none;
+	color: yellow;
+}
+#flexBox{
+	background-color: rgba(0,0,0,0.6);
+}
+#sbtn{
+	background-color: green;
+	color: white;
+}
+#regform, #logform{
+	background-color: rgba(0,0,0,0.6);
+	width: 500px;
+	color: yellow;
+}
+#apply{
+	display: none;
+}
+#lt{
+	background-color: rgba(0,0,0,0.6);
+	color: yellow;
+	width: 800px;
+}
+#ltu{
+	border: 1px solid green;
+}
+#lbtn{
+	background-color: black;
+	color: yellow;
+}
