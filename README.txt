@@ -4,9 +4,9 @@ copy this folder and paste it in xampp/htdocs/ to use the website since
 its php based which run on the server
 Default Users
 Admin:
-    -username:  	blessingschero2001@gmail.com 	
-    -password:      nash
+    -username:  	koechkipkirui00@gmail.com 	
+    -password:      allan2021
 RegisteredUser:     
-    -username:  	blessingschero2001@gmail.com 	
-    -password:      nash
+    -username:  	Kipkirui Allan	
+    -password:      allan2021
 
